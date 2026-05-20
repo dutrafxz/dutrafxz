@@ -63,9 +63,7 @@
   <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/-PgAdmin-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-Node--RED-0D1117?style=for-the-badge&logo=nodered&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0D1117?style=for-the-badge&logo=cisco&labelColor=0D1117"/>
 </p>
 
 ---
